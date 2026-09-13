@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/apex-legends-hack.Core/apex-legends-hack.Core.csproj" />
+    <Project Path="src/apex-legends-hack.Loader/apex-legends-hack.Loader.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/apex-legends-hack.Core.Tests/apex-legends-hack.Core.Tests.csproj" />
+  </Folder>
+</Solution>
